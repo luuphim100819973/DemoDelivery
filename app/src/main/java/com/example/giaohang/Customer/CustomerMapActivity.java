@@ -54,7 +54,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
 import com.example.giaohang.Adapters.TypeAdapter;
 import com.example.giaohang.Chat.ChatActivity;
-//import com.example.giaohang.History.HistoryActivity;
+
 import com.example.giaohang.History.HistoryActivity2;
 import com.example.giaohang.Login.LauncherActivity;
 import com.example.giaohang.Login.LoginFragment;
